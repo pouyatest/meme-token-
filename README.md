@@ -18,3 +18,4 @@ document.getElementById("receiveCoinButton").addEventListener("click", async () 
   
   alert("Meme coin sent successfully!");
 });
+// this for farcaster platform
